@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VrushtiJS
-- 👀 I’m interested in User Experience Design and Human Computer Interactins and above all Technology!
+- 👋 Hi, I’m @VrushtiJS aka Vrushti.
+- 💞️ I’m interested in User Experience Design and Human Computer Interactins and above all Technology!
 - 🌱 I’m currently learning Mixed Reality Concepts :)
-- 💞️ I’m looking to collaborate on some interesting User Interaction, Mixed Reality Design projects...
+- 👀 I’m looking to collaborate on some interesting User Interaction, Mixed Reality Design projects...
 - 📫 Reach me at : vrushtisolanki2@gmail.com
 
 <!---
